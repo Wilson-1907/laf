@@ -5,7 +5,7 @@ const noBtn = document.querySelector('.no-btn');
 
 // YES button clicked
 yesBtn.addEventListener('click', () => {
-  question.textContent = "Awww 🥰 I love you too! Be my valentine ♥";
+  question.textContent = "Awww 🥰 I love you too Mumo💗 Be my Wife ♥";
   gif.src =
     "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ4Z3p2c3Y4dWZ2NjU4OHNxMW1mMjVrdzhsY25xMm5wNWNwYzlwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDJ9IbxxvDUQM/giphy.webp";
   yesBtn.style.display = "none";
